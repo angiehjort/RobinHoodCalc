@@ -1,6 +1,8 @@
-A Robin Hood project that aims to visualize how re-distributing wealth from the richest in the world can impact those living in extreme poverty.
+A Robin Hood project that aims to visualize how re-distributing wealth from the richest in the world can impact those living in extreme poverty.  
 
-Instructions
+[LIVE DEMO](https://robinhoodcalculator.web.app/)  
+
+Instructions  
 
 Run npm install from \RobinHoodCalc>
 
